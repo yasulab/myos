@@ -1,0 +1,4 @@
+hariboteOS‚ªg‚¤ŠÖ”‚Ìƒƒ‚
+
+api_initmalloc():
+	

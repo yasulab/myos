@@ -1,0 +1,3 @@
+@cd ./haribote
+@make
+@pause

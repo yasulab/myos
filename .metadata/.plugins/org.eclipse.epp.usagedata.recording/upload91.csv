@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.cut,1237447640843
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.paste,1237447644203
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.file.save,1237447645796
+activated,view,org.eclipse.ui.views,3.3.0.I20080509-2000,org.eclipse.ui.views.ContentOutline,1237447651734
+activated,editor,org.eclipse.cdt.ui,5.0.1.200809120802,org.eclipse.cdt.ui.editor.CEditor,1237447659031
+activated,view,org.eclipse.ui.views,3.3.0.I20080509-2000,org.eclipse.ui.views.ContentOutline,1237447662656
+activated,editor,org.eclipse.cdt.ui,5.0.1.200809120802,org.eclipse.cdt.ui.editor.CEditor,1237447668343
+activated,view,org.eclipse.ui.views,3.3.0.I20080509-2000,org.eclipse.ui.views.ContentOutline,1237447671343
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1237447672984
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1237447673468
+no handler,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.undo,1237447677984
+activated,editor,org.eclipse.cdt.ui,5.0.1.200809120802,org.eclipse.cdt.ui.editor.CEditor,1237447679421
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.undo,1237447680031
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.undo,1237447686781
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.file.save,1237447699234
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.file.save,1237447713968
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1237447719875
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1237447729171
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1237447729187
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1237447729625
+activated,editor,org.eclipse.cdt.ui,5.0.1.200809120802,org.eclipse.cdt.ui.editor.CEditor,1237447731312
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.cut,1237447748031
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.paste,1237447750390
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.file.save,1237447751687
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.cut,1237447758125

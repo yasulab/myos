@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238386839984
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238386840343
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388217531
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388217546
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388217859
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388218218
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388283234
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388283250
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388283390
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388283734
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388432234
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388432234
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388432687
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.file.save,1238388433859
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388434312
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388708093
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388708109
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388708562
+activated,view,org.eclipse.ui.views,3.3.0.I20080509-2000,org.eclipse.ui.views.ContentOutline,1238388710078
+no handler,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.findReplace,1238388755078
+activated,editor,org.eclipse.cdt.ui,5.0.1.200809120802,org.eclipse.cdt.ui.editor.CEditor,1238388756406
+deactivated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388757015
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.edit.findReplace,1238388757218
+activated,workbench,org.eclipse.ui.workbench,3.4.1.M20080827-0800a,,1238388764187
+executed,command,org.eclipse.ui,3.4.1.M20080910-0800,org.eclipse.ui.file.refresh,1238388784500
