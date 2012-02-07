@@ -1,31 +1,33 @@
-This is a project that impelements my memory filesystem into Haribote operating system.
+Implement and develop memory file system, which runs only using memory, in haribote OS.
 
-�{�e�L�X�g�ł́AmyOS�̎��s���@��myOS�Ǝ��̃R�}���h���Љ�܂��B
+[このページの目的] ※ myos_report_001.pdfから一部引用
+研究内容として"メモリ領域のみを使用して動作するファイルシステムの実装"
+(以下、本研究)を選んだ2つの目的について述べる。
 
-[���s���@]
-myOS�́Aharibote OS�̎��s���@�Ɠ��l�̕��@�Ŏ��s�ł��܂��B
-makefile���u����Ă���e�t�@���_�ɂ�����make�R�}���h�����s������A
-harib27f�t�H���_�ɂ���"makerun.bat"�����s���邱�Ƃ�myOS���N�����܂��B
+１つ目の目的は、はりぼてOSの拡張例を広く公表することで、
+OS開発者数の増加を促進させることである。はりぼてOSは、
+必要最低限の機能のみを実装し、他の欠けている機能の実装については
+各読者に委ねるというスタンスを持っている。このため、
+一般的なOSにあるべき大部分の機能が欠けている。
+はりぼてOSの著者は、これらの欠けている機能について、
+読者自身で実装することを強く勧めているが、
+ウェブ上で確認できる読者自身による開発例は未だ多くはない。
+また、ウェブ上で確認できる拡張例の多くは、拡張したOSの配布のみに
+強く焦点が当てられているため、拡張へのアプローチや拡張したOSの
+仕様について深く述べられている例が少ない。このため、読者の多くは、
+はりぼてOSの拡張するための具体的なアプローチ方法が思いつかず、
+本書を読み終えた後においても、OSの拡張まで手を伸ばす読者が
+多くないのだと私は考えている。
 
-[�R�}���h]
-mkfile	:�J�����g�f�B���N�g���ɐV�K�t�@�C�����쐬���܂��B
-mkdir	:�J�����g�f�B���N�g���ɐV�K�f�B���N�g�����쐬���܂��B
-cd		:�����Ŏw�肳�ꂽ�f�B���N�g���Ɉړ����܂��B
-edit	:mkfile�R�}���h�ō쐬�����t�@�C���̕ҏW���s���܂��B
-		 �Ȃ��Aedit�R�}���h�ł͉��L�̃I�v�V�������g�p�\�ł��B
-		 -ins 	�ҏW���̃f�[�^���㏑�����܂��B
-		 -cls 	�ҏW���̃f�[�^���N���A���܂��B
-		 -open 	�����Ŏw�肳�ꂽ�ɂ���t�@�C�����J���܂��B
-		 -close ���݊J���Ă���t�@�C������܂��B
-		 -add 	�ҏW���̃f�[�^�̖����ɕ������ǉ����܂��B
-		 (�I�v�V�������w�肳��Ă��Ȃ��Ƃ��� -add�Ɠ����U�镑�������܂��B)
-show	:mkfile�R�}���h�ō쐬�����t�@�C���̃X�e�[�^�X��\�����܂��B
-fview	:mkfile�R�}���h�ō쐬�����t�@�C���̓��e��\�����܂��B
+これらのことから、本研究では、まずはりぼてOSを拡張させ、その後、
+拡張したOSの制作過程とその仕様をウェブ上に広く公表する。
+そうすることで、読者自身によるOSの拡張を促し、
+今後のOS開発者数の増加を目的の１つとしている。
+(引用終了)
 
+このページに置かれている資料は、全てオープンソースとして公開しています。
+このページにおかれている資料が、どこかの誰かの役に立っていたら嬉しいです。
 
-
-
-�� �Ȃ��AmyOS�̓����̏������o�͂��������Ƃ��͈ȉ��̕������폜���A
-�@ �R�����g�A�E�g�����邾���ł��B
-
-~/harib27f/haribote/console.c 16�s�ڂɂ���"//"�������B
+yohei yasukawa, March 31th, 2009,
+Dept. of Computer Science
+Waseda University
